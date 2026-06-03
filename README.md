@@ -1,2 +1,1 @@
-# Electronic-Inventory-Management-System
-woewoewoewoeweoew
+print

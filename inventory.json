@@ -1,0 +1,74 @@
+{
+    "DLLC": {
+        "name": "DELL Entry Level Laptop",
+        "category": "Laptop",
+        "quantity": 100,
+        "price": 200.0
+    },
+    "ROGC": {
+        "name": "ROG STRIX RTX 5070 ti",
+        "category": "Laptop",
+        "quantity": 50,
+        "price": 5400.0
+    },
+    "ARMM": {
+        "name": "ARMAGEDDON Monitor 144hz",
+        "category": "Monitor",
+        "quantity": 1,
+        "price": 450.0
+    },
+    "ARMM100hz": {
+        "name": "ARMAGEDDON Monitor 100hz",
+        "category": "Monitor",
+        "quantity": 100,
+        "price": 400.0
+    },
+    "HPVC1": {
+        "name": "HP Victus RTX3050",
+        "category": "Laptop",
+        "quantity": 100,
+        "price": 3500.0
+    },
+    "ACN1": {
+        "name": "ACER Nitro RTX3050",
+        "category": "Laptop",
+        "quantity": 80,
+        "price": 350.0
+    },
+    "SMSG1": {
+        "name": "Samsung TV 100\"",
+        "category": "Television",
+        "quantity": 100,
+        "price": 1000.0
+    },
+    "HPRX1": {
+        "name": "HYPERX Headphone",
+        "category": "Headphone",
+        "quantity": 10,
+        "price": 200.0
+    },
+    "XMI1": {
+        "name": "XIAOMI Keyboard",
+        "category": "Keyboard",
+        "quantity": 100,
+        "price": 100.0
+    },
+    "LGTH": {
+        "name": "Logitech",
+        "category": "Mouse",
+        "quantity": 100,
+        "price": 60.0
+    },
+    "XMI2": {
+        "name": "Xiaomi Projector",
+        "category": "Projector",
+        "quantity": 5,
+        "price": 350.0
+    },
+    "E001": {
+        "name": "Laptop DELL",
+        "category": "Laptop",
+        "quantity": 50,
+        "price": 1500.0
+    }
+}
